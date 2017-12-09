@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Coloris</string>
+    <string name="coloris">Coloris</string>
+    <string name="play">Play</string>
+    <string name="scores">Scores</string>
+    <string name="options">Options</string>
+    <string name="credits">Credits</string>
+    <string name="todo">TODO</string>
+    <string name="mute_music">Mute Music</string>
+    <string name="activate_gravity_mode">Activate Gravity Mode</string>
+    <string name="activate_mozart_mode">Activate Mozart Mode</string>
+    <string name="back">Back</string>
+    <string name="best_scores">Best Scores</string>
+    <string name="name">Name</string>
+    <string name="score">Score</string>
+    <string name="reset_best_score">reset best score</string>
+    <string name="ok">OK</string>
+
+</resources>

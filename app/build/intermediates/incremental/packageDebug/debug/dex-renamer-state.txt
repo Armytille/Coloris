@@ -1,0 +1,4 @@
+#Fri Dec 08 19:28:07 CET 2017
+base.0=/Users/dan/Desktop/Coloris_1/app/build/intermediates/transforms/dexMerger/debug/19
+path.0=classes.dex
+renamed.0=classes.dex
